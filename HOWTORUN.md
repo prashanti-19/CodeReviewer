@@ -3,7 +3,7 @@ Step 1: Open PowerShell
     Search for PowerShell in your Windows start menu
 
 Step 2: Navigate to the backend
-    bashcd C:\..\backend\backend
+    bashcd C:\..\backend
 
 Step 3: Start the backend
     bashpy -m uvicorn main:app --host 0.0.0.0 --port 8000
