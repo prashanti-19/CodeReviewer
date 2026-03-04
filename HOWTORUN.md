@@ -16,7 +16,7 @@ Step 4: Open a second PowerShell window
     Keep the first one open — don't close it!
 
 Step 5: Navigate to the frontend
-    bashcd C:\..\YOUR-FRONTEND-FOLDER
+    bashcd C:\..\frontend
 
 Step 6: Start the frontend
     bashnpm run dev
